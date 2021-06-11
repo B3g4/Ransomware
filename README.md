@@ -175,6 +175,8 @@ if __name__ == '__main__':
             print('Chave inválida!')
 ```
 
+exemplo em pratica - https://www.youtube.com/watch?v=zcVyp37t_J0
+
 Development and Code for Security - Fabio Cabrini
 
 Global Solutions - 2021
